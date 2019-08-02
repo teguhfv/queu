@@ -1,0 +1,21 @@
+<style>
+.logo {
+    height: 100%;
+    width: 100%;
+     background: #3399ff;  
+}
+
+.data-plat {
+    position: absolute;
+    visibility: hidden;
+    left: -1000%;
+    top: -1000%
+}
+
+.content {
+    position: relative;
+    height: 100%;
+    width: 100%;
+}
+
+</style>
